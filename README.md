@@ -3,7 +3,7 @@
 ```
 myproject/
 │
-├── myproject/
+├── project/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py

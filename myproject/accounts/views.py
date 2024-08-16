@@ -17,4 +17,4 @@ class LoginView(TokenObtainPairView):
 
 
 def home(request):  
-    return HttpResponse("Bem-vindo ao meu projeto Django!")
+    return HttpResponse("Bem-vindo!")
